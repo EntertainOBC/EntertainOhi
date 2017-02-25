@@ -1,7 +1,24 @@
 <!-- Login Page -->
 
+body{
+   margin: 0 auto;
+
+}
 
 
+.Box{
+	width: 500px;
+	height: 400px;
+	text-align: center;
+	background-color: rgba(52, 73, 94, 0.7);
+	border-radius: 10px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+.Input{
+	top:500px;
+}
 <!-- Marquee Dogs Care -->
 <style style-"text/css">
 .marquee {
